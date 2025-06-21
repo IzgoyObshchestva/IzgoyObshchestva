@@ -12,11 +12,11 @@
 
 ###
 
-<img align="left" height="250" src="https://i.pinimg.com/736x/7c/91/e4/7c91e4f5a2e6112760305f83e2c069aa.jpg"  />
+<img align="right" height="250" src="https://i.pinimg.com/736x/7c/91/e4/7c91e4f5a2e6112760305f83e2c069aa.jpg"  />
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
@@ -32,6 +32,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
 ###
@@ -49,5 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IzgoyObshchestva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2&custom_title=Programming%20Languages" height="166" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IzgoyObshchestva&radius=16&theme=github-dark&area=false&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<p align="left">[![Poetry](https://img.shields.io/endpoint?url=https://python-poetry.org/badge/v0.json)](https://python-poetry.org/)</p>
 
 ###
