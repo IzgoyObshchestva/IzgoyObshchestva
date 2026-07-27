@@ -57,5 +57,7 @@
 ###
 
 <p align="left">Poetry</p>
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
 
 ###
