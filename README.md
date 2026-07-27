@@ -22,6 +22,29 @@ Knowledge is the only path to freedom.
 
 ──────────────────────────────
 
+## Tech Stack
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,sqlite,git,figma,postgresql&perline=10" /> </p> <p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=alembic,sqlalchemy,pydantic" /> </p>
+
+Python
+FastAPI
+Aiogram
+SQLAlchemy
+PostgreSQL
+SQLite
+Alembic
+Poetry
+Pydantic
+Git
+HTML
+CSS
+JavaScript
+Figma
+Pillow
+Excel
+
+──────────────────────────────
+
 > Ты зовёшь это безумием. 
 > Я — поиском ответов на вопросы, которые ты даже не осмелишься задать. 
 > Ведь знания — единственный путь к любой свободе.
